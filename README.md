@@ -58,3 +58,4 @@ __0.1.0__
 Copyright (c) 2015
 
 Licensed under the [MIT license](LICENSE).
+# featherjs-chat
